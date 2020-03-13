@@ -58,4 +58,4 @@ Remote Play 첫 화면은 듀얼쇼크4가 연결된 상태로 실행이 됩니�
 ## 후원
 이 프로그램이 유용하셨다면 개발자에게 커피 한잔을 후원할 수 있습니다! :)
 
-<a href="https://www.buymeacoffee.com/dmkwqJV" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px;width: 90px;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://ko-fi.com/ds4free" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px;width: 90px;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
