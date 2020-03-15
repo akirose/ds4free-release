@@ -56,3 +56,7 @@ Remote Play 첫 화면은 듀얼쇼크4가 연결된 상태로 실행이 됩니�
 
 환경설정 창을 닫으면 해당 설정이 저장 됩니다.
 
+## Donate
+DS4Free is useful, you can buy a cup of coffee.
+
+<a href="https://www.buymeacoffee.com/dmkwqJV" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px;width: 90px;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
