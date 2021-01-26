@@ -2,7 +2,7 @@
 Mac OS에서 PS4 Remote Play 사용 시 DualShock4 없이 키보드, 마우스를 이용하여 게임을 플레이 할 수 있습니다.
 
 ## 사용법
-__RemotePlay 4.0.0 이후에서 동작하지 않는 부분은 App Store에서 XCode 설치 후 실행하여 안내에 따라 "Command Line Tools"를 설치한 다음 아래 명령어를 실행하여 주시면 됩니다.__
+> __RemotePlay 4.0.0 이후에서 동작하지 않는 부분은 App Store에서 XCode 설치 후 실행하여 안내에 따라 "Command Line Tools"를 설치한 다음 아래 명령어를 실행하여 주시면 됩니다.__
 
 ```
 sudo codesign -fs - /Application/RemotePlay.app
