@@ -2,7 +2,7 @@
 Mac OS에서 PS4 Remote Play 사용 시 DualShock4 없이 키보드, 마우스를 이용하여 게임을 플레이 할 수 있습니다.
 
 ## 참고
->__RemotePlay 4.0.0 업데이트 후 DS4Free가 동작하지 않는 문제는 아래 명령어를 실행하여 주시면 해결됩니다.__
+>__RemotePlay 4.0.0 업데이트 후 DS4Free가 동작하지 않는 문제는 터미널에서 아래 명령어를 실행하여 주시면 해결됩니다.__
 > ```
 > sudo codesign -fs - /Application/RemotePlay.app
 > ```
