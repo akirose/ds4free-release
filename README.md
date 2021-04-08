@@ -10,7 +10,7 @@ Mac OS에서 PS4 Remote Play 사용 시 DualShock4 없이 키보드, 마우스�
 
 ## 사용법
 
-DS4Free.app을 실행하면 PS4 Remote Play(/Application/RemotePlay.app)를 실행합니다.
+DS4Free.app을 실행하면 PS4 Remote Play(/Applications/RemotePlay.app)를 실행합니다.
 
 정상 실행되면 아래 이미지와 같이 메뉴바에 십자키 모양의 메뉴가 추가 됩니다.
 
